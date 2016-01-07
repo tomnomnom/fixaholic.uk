@@ -45,6 +45,10 @@ body {
 h1 {
     font-size: 2rem;
 }
+h1 a, h1 a:visited {
+    text-decoration: none;
+    color: #363840;
+}
 h2 {
     font-size: 1.5rem;
     margin-bottom: -0.25rem;
@@ -83,4 +87,13 @@ img.review {
 p {
     text-align: justify;
     text-justify: inter-ideograph;
+}
+
+abbr {
+    border-bottom: 1px dotted #363840;
+}
+
+footer {
+    margin-top: 4rem;
+    font-size: 0.8rem;
 }
