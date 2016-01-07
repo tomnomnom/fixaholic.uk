@@ -56,7 +56,7 @@
     on the handle side. On all the bolt-heads and nuts I&#8217;ve tested against the fit has been about right for my
     tastes: not so tight that my nuts get stuck, but not a great deal of slop either. Unlike some cheaper sockets
     I&#8217;ve used there&#8217;s a reasonably convex surface to the 'flats' of the sockets. That&#8217;s great, because it
-    means the socket grips the flats of the bolt head more than the corners &mdash; and gripping the corners instead is a great
+    means the socket grips the flats of the bolt head more than the corners &mdash; gripping the corners is a great
     way to round them off.
 </p>
 
@@ -64,28 +64,30 @@
 <h3>The Case</h3>
 <p>
     The case is actually one of my favourite things about this set. So many tool sets seem to assume
-    you&#8217;re going to chuck the case away and leave the tools scattered around your tool box, and so
-    supply a case worthy only of chucking in the bin.
+    you&#8217;re going to chuck the case away, leaving the tools scattered around your tool box, and so
+    supply a case worthy only of chucking in the bin. This case is much nicer than that.
 </p>
 <p>
-    As I mentioned: it&#8217;s only 160x85x35mm and it fits nicely into one of the pockets on my backpack,
-    ready to let me be the hero who can fix all the things. The plastic is thick and feels really sturdy;
+    As I mentioned: it&#8217;s only 160x85x35mm; it fits nicely into one of the pockets on my backpack,
+    ready to let me be the hero who can fix all the things. The plastic is thick and feels sturdy;
     not at all like it would break should my toddler get hold of it.
 </p>
 <img src="/bahco-sl25/case.jpg" class="review" alt="The tiny little case in all its glory">
 <p>
-    The high-density foam liner holds the sockets snugly so they don&#8217;t rattle around or drop all
+    The high-density foam liner holds the sockets snugly so they don&#8217;t rattle around &mdash; or drop all
     over the floor when you lend it to someone and they inevitably open it upside down. Screen printed
     (I <em>think</em>) lettering is used to label all the slots in the foam, which is much easier to read
-    than the embossed lettering you tend to get in the cheap molded plastic cases &mdash; although I do
+    than the embossed lettering you tend to get in the cheap molded plastic cases, but I do
     wonder about its longevity.
 </p>
 
 <h3>Should You Get One?</h3>
 <p>
     That depends. I got mine on sale for &pound;19.50, which isn&#8217;t much more than the cheap-and-nasty
-    &pound;15 Stanley set that I nearly bought &mdash; that had less bits with it too.
+    &pound;15 Stanley set that I nearly bought (that had less bits with it too).
     The <abbr title="Recommended Retail Price">RRP</abbr> of the Bahco set though, is a slightly less palatable &pound;53.28.
+</p>
+<p>
     Personally, I reckon if you can find one for less than £30 it would be well worth it;
     then you could join me in being one of the <em>very</em> few people who <abbr title="Every Day Carry">EDC</abbr> a socket set.
 </p>
